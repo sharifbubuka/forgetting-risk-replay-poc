@@ -1,0 +1,9 @@
+method,task1_acc_after_task2_cil,task2_acc_after_task2_cil,avg_acc_cil,task1_acc_before_task2_cil,task1_forgetting_cil
+Random replay,0.283,0.901,0.592,0.929,0.6460000000000001
+Class-balanced corrected-probe replay,0.265,0.904,0.5845,0.929,0.664
+Hybrid corrected-probe 25% risk,0.255,0.899,0.577,0.929,0.674
+Hybrid corrected-probe 50% risk,0.232,0.902,0.5670000000000001,0.929,0.6970000000000001
+Embedding-diverse corrected-probe replay,0.158,0.897,0.5275,0.929,0.771
+Hybrid corrected-probe 75% risk,0.15,0.899,0.5245,0.929,0.779
+Corrected-probe replay,0.093,0.885,0.489,0.929,0.8360000000000001
+No replay,0.0,0.879,0.4395,0.929,0.929
